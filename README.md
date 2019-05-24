@@ -20,4 +20,7 @@ docker run -d \
   emerald/node:1.0
 ```
 
-or simply type ./run.sh
+or simply type 
+```
+./run.sh
+```
