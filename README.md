@@ -1,3 +1,10 @@
+# requirements
+------------
+Ubuntu 16.04 LTS (RAM 2GB, HDD 20GB)
+apt-get install docker.io
+
+
+
 # EmeraldCryptoCoin
 Create a node for Emerald Crypto Coins with Docker.
 
