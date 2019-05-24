@@ -1,4 +1,4 @@
-# requirements
+# Requirements
 
 Ubuntu 16.04 LTS (RAM 2GB, HDD 20GB)
 
