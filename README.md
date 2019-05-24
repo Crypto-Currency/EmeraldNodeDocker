@@ -1,6 +1,7 @@
 # requirements
 ------------
 Ubuntu 16.04 LTS (RAM 2GB, HDD 20GB)
+
 apt-get install docker.io
 
 
