@@ -19,3 +19,5 @@ docker run -d \
   -v emerald-volume:/data \
   emerald/node:1.0
 ```
+
+or simply type ./run.sh
