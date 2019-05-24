@@ -24,7 +24,7 @@ WORKDIR /opt/emerald
 RUN git clone https://github.com/crypto-currency/Emerald.git
 WORKDIR /opt/emerald/Emerald/src
 RUN test -e obj || mkdir obj 
-RUN make -f makefile.unix && mv emeraldd /opt/emerald/
+RUN make -f makefile.unix && strip emeraldd && mv emeraldd /opt/emerald/
 WORKDIR /opt/emerald
 RUN rm -rf Emerald
 USER root
